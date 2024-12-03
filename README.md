@@ -4,7 +4,7 @@
 
 - log format will be like this
 
-'''bash
+"""bash
     Free Memory (KB) 200000 6000000 500000.00
     Cache Memory (KB) 1200000 16000000 15000000.00
     Blocks In (blocks/s) 5 300000 40000.00
@@ -14,4 +14,4 @@
     System CPU (%) 5 35 20.00
     Idle CPU (%) 2 95 40.00
     IO Wait (%) 1 60 10.00
-'''
+"""
