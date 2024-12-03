@@ -3,7 +3,7 @@
 Easily visualize the output of **vmstat logs** with this tool.  
 Analyze and understand system performance metrics like memory, CPU usage, and I/O operations in a structured and graphical format.  
 
-Use it this url -> [https://vmstat-log-visualization-nsegt8bqp36blq7yfqwhqp.streamlit.app/](https://vmstat-log-visualization-nsegt8bqp36blq7yfqwhqp.streamlit.app/)
+Use it in URL -> [https://vmstat-log-visualization-nsegt8bqp36blq7yfqwhqp.streamlit.app/](https://vmstat-log-visualization-nsegt8bqp36blq7yfqwhqp.streamlit.app/)
 
 ## Features
 
