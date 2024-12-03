@@ -40,25 +40,17 @@ Example visualizations include:
 - **Memory Usage (Free & Cache)**  
 - **CPU Utilization (User, System, Idle, IO Wait)**  
 - **Disk I/O Performance (Blocks In & Out)**  
-- **System Load (Context Switches)**  
-
-### Example Output:  
-Here’s how the data is visualized:
-
-#### Memory Usage
-![Memory Usage Example](example-memory-usage.png)
-
-#### CPU Utilization
-![CPU Utilization Example](example-cpu-usage.png)
-
+- **System Load (Context Switches)**
+- 
 ---
 
 ## How to Use
 
 1. **Input Logs**: Paste your vmstat log into the tool or upload a log file.
-![image](https://github.com/user-attachments/assets/b1d128d2-a2d0-4cc9-94f7-8536ff550115)
-
 2. **View Charts**: Analyze the graphical representation of your data.
+
+### & Example Output
+![image](https://github.com/user-attachments/assets/b1d128d2-a2d0-4cc9-94f7-8536ff550115)
 ![cpu](https://github.com/user-attachments/assets/3396f403-cc8e-4059-ad55-c145866a297d)
 ![blocksinout](https://github.com/user-attachments/assets/bb1c0a3e-464d-4071-91b1-156685892009)
 ![contextswitch](https://github.com/user-attachments/assets/8bd4d129-3feb-48cf-8d6f-541e05068855)
