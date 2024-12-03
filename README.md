@@ -57,5 +57,3 @@ Example visualizations include:
 ![memory](https://github.com/user-attachments/assets/1a4cdded-06cf-4de6-b1f8-87bf60e3e35d)
 
 ---
-
-이제 깔끔하고 명확한 문서로 다른 사람들이 프로젝트의 목적과 사용법을 쉽게 이해할 수 있을 것입니다! 😊
